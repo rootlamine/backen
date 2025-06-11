@@ -1,0 +1,303 @@
+{
+  "users": [
+    {
+      "id": "3ebd",
+      "phone": "778232295",
+      "name": "Samba"
+    },
+    {
+      "id": "e71e",
+      "name": "Aliou Fall",
+      "phone": "777777777" 
+    },
+    {
+      "id": "c631",
+      "name": "Al amine",
+      "phone": "782305607"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "654c",
+      "userId": "3ebd",
+      "name": "ejgjhklkjg",
+      "phone": "778654321",
+      "archived": false,
+      "blocked": false
+    },
+    {
+      "id": "c3ba",
+      "userId": "3ebd",
+      "name": "test",
+      "phone": "778909878",
+      "archived": false,
+      "blocked": false
+    },
+    {
+      "id": "1ca5",
+      "userId": "3ebd",
+      "name": "test",
+      "phone": "778232298",
+      "archived": false,
+      "blocked": false
+    },
+    {
+      "id": "4aac",
+      "userId": "3ebd",
+      "name": "Khadim",
+      "phone": "778908887",
+      "archived": false,
+      "blocked": false
+    },
+    {
+      "id": "69a0",
+      "userId": "e71e",
+      "name": "Boubacar",
+      "phone": "778972321",
+      "archived": false,
+      "blocked": false
+    },
+    {
+      "id": "5b00",
+      "userId": "e71e",
+      "name": "Samba Diallo",
+      "phone": "778845443",
+      "archived": false,
+      "blocked": false
+    },
+    {
+      "id": "0685",
+      "userId": "c631",
+      "name": "jdfjksd",
+      "phone": "785432134",
+      "archived": false,
+      "blocked": false
+    },
+    {
+      "id": "bde7",
+      "userId": "c631",
+      "name": "ffff",
+      "phone": "778909876",
+      "archived": false,
+      "blocked": false
+    }
+  ],
+  "messages": [
+    {
+      "id": "f4a2",
+      "userId": "3ebd",
+      "contactId": "1ca5",
+      "text": "test",
+      "timestamp": 1749578999820,
+      "read": false
+    },
+    {
+      "id": "766d",
+      "userId": "3ebd",
+      "contactId": "1ca5",
+      "text": "comment tu vas",
+      "timestamp": 1749580722458,
+      "read": false
+    },
+    {
+      "id": "d0d3",
+      "userId": "e71e",
+      "contactId": "69a0",
+      "text": "je vais bien",
+      "timestamp": 1749581322932,
+      "read": false
+    },
+    {
+      "id": "2495",
+      "userId": "e71e",
+      "contactId": "5b00",
+      "text": "salut",
+      "timestamp": 1749582057130,
+      "read": false
+    },
+    {
+      "id": "bf69",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "daaa",
+      "timestamp": 1749582989542,
+      "read": false
+    },
+    {
+      "id": "040d",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "ghj",
+      "timestamp": 1749583230718,
+      "read": false
+    },
+    {
+      "id": "2ba0",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "hthttt",
+      "timestamp": 1749588498822,
+      "read": false
+    },
+    {
+      "id": "d71d",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "tttt'",
+      "timestamp": 1749588512543,
+      "read": false
+    },
+    {
+      "id": "6813",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "dddd",
+      "timestamp": 1749588525162,
+      "read": false
+    },
+    {
+      "id": "75d3",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "dddd",
+      "timestamp": 1749588549246,
+      "read": false
+    },
+    {
+      "id": "266f",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "djkc;,zrklfsfs",
+      "timestamp": 1749588552680,
+      "read": false
+    },
+    {
+      "id": "9522",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "ncfkjngce",
+      "timestamp": 1749588559168,
+      "read": false
+    },
+    {
+      "id": "ff09",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "dddddd",
+      "timestamp": 1749588575946,
+      "read": false
+    },
+    {
+      "id": "88fa",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "jjjkjdkjkjkd",
+      "timestamp": 1749588583193,
+      "read": false
+    },
+    {
+      "id": "2bb0",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "jd,,, fvd, ;,cnvr",
+      "timestamp": 1749588588909,
+      "read": false
+    },
+    {
+      "id": "5845",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "dwfxcgvhbknl,;mù:",
+      "timestamp": 1749588597051,
+      "read": false
+    },
+    {
+      "id": "afda",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "salut",
+      "timestamp": 1749588616594,
+      "read": false
+    },
+    {
+      "id": "5942",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "dd",
+      "timestamp": 1749588691161,
+      "read": false
+    },
+    {
+      "id": "20fe",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "test",
+      "timestamp": 1749588965399,
+      "read": false
+    },
+    {
+      "id": "c723",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "jj",
+      "timestamp": 1749588984195,
+      "read": false
+    },
+    {
+      "id": "4637",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "k;l",
+      "timestamp": 1749589149337,
+      "read": false
+    },
+    {
+      "id": "f5ea",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "jjjjj",
+      "timestamp": 1749589151556,
+      "read": false
+    },
+    {
+      "id": "30dd",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "haloooo",
+      "timestamp": 1749589166812,
+      "read": false
+    },
+    {
+      "id": "3519",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "yessss",
+      "timestamp": 1749589194796,
+      "read": false
+    },
+    {
+      "id": "1d79",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "dddd",
+      "timestamp": 1749589808957,
+      "read": false
+    },
+    {
+      "id": "3030",
+      "userId": "c631",
+      "contactId": "bde7",
+      "text": "1",
+      "timestamp": 1749589828796,
+      "read": false
+    },
+    {
+      "id": "ca39",
+      "userId": "c631",
+      "contactId": "0685",
+      "text": "test",
+      "timestamp": 1749592004841,
+      "read": false
+    }
+  ]
+}
