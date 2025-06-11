@@ -300,5 +300,12 @@
       "read": false
     }
   ],
-  "groups": [ ]  
+  "groups": [
+  {
+    "id": 1,
+    "name": "Groupe Test",
+    "members": ["1", "2"],
+    "createdAt": 1718123456789
+  }
+] 
 }
